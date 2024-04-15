@@ -16,7 +16,7 @@ h1{
     background-color: grey;
 }
 main{
-    background-color: lightgreen;
+    background-color: lightgrey;
     /* This makes the main take up any available space to push footer down */
     flex: 1 0 auto;
 }
