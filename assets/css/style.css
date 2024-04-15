@@ -17,8 +17,12 @@ body{
     font: 'lato', sans-serif;
 }
 
-h1{
+header{
     background-color: grey;
+}
+
+h1{
+    font-family: 'oswald', sans-serif;
 }
 main{
     background-color: lightgrey;
